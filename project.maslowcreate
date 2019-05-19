@@ -1,0 +1,24 @@
+{
+    "molecules": [
+        {
+            "atomType": "Molecule",
+            "name": "maslow_create_test1",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 827829,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 3790,
+                    "y": 474.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        }
+    ]
+}
